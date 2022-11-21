@@ -3,7 +3,8 @@
 ### BASIC
  
 https://docs.google.com/document/d/1uhAM1X_eRR-o6xqLD9Yvs0wgPRSjFn9B1hHdJlJrUTI/edit  
-https://youtu.be/IR_S8BC8KI0  
+Codebasics - https://youtu.be/IR_S8BC8KI0  
+Reducible  - https://www.youtube.com/watch?v=Q_1M2JaijjQ 
 
  
  
