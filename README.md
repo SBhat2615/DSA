@@ -23,13 +23,23 @@ CLRS
 Space and Time Complexity
 
 
-### Day 3 to Day 10
+### Day 3 to 10
 Recursion and Bactracking
 
 
-### Day 11 to 30
+### Day 11 to 30 
+Basic Data Structures 
 
-...
+
+### Day 31 to 45 
+Complex DS and Algorithms 
 
 
-Day 90
+### Day 46 to 70 
+ 
+
+### Day 71 to 80 
+
+
+### Day 81 to 90 
+
