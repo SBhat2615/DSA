@@ -28,11 +28,11 @@ Recursion and Bactracking
 
 
 ### Day 11 to 30 
-Basic Data Structures 
+Basic Data Structures - Arrays, Stacks, Queues, Linked Lists
 
 
 ### Day 31 to 45 
-Complex DS and Algorithms 
+Complex Data Structures and Algorithms 
 
 
 ### Day 46 to 70 
