@@ -19,27 +19,28 @@ CLRS
 
 ## PLAN
 
-### Day 1 and Day 2
+#### Day 1 and Day 2
 Space and Time Complexity
 
 
-### Day 3 to 10
+#### Day 3 to 10
 Recursion and Bactracking
 
 
-### Day 11 to 30 
+#### Day 11 to 30 
 Basic Data Structures - Arrays, Stacks, Queues, Linked Lists
 
 
-### Day 31 to 45 
+#### Day 31 to 45 
 Complex Data Structures and Algorithms 
 
 
-### Day 46 to 70 
- 
-
-### Day 71 to 80 
+#### Day 46 to 70 
+Graphs and DP
 
 
-### Day 81 to 90 
+#### Day 71 to 80 
+
+
+#### Day 81 to 90 
 
